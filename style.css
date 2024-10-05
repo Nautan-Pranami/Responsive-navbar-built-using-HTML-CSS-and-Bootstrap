@@ -1,0 +1,12 @@
+.navbar{
+    background-color: bisque !important;
+}
+
+.navbar-brand {
+    font-family: "Protest Guerrilla", sans-serif;
+}
+
+.btn {
+    display: flex;
+    align-items: center;
+}
